@@ -1,0 +1,134 @@
+.salon-from{
+    margin-top: 25px;
+}
+
+.es-btnAdd{
+    border-radius: 10px;
+    font-size: 12px;
+    width: 100px;
+    margin-bottom: 0px;
+    float: right;
+    background-color: #64CF6F;
+}
+
+.es-errorMessage{
+    font-size: 18px;
+    text-align: center;
+    color: red;
+}
+
+.esp-salonImage{
+    height: 140px;
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    
+}
+
+ul {
+	padding: 0;
+}
+li {
+	list-style-type: none;
+}
+section.esp-style {
+    padding: 100px 0;
+}
+ul.es-stars {
+    display: flex;
+    padding-top: 5px;
+    margin-bottom: 5px;
+    color: #ff6a6a;
+}
+.es-card {
+    padding: 10px;
+    box-shadow: 0 2px 11px 0 rgb(209 209 209);
+    border-radius: 20px;
+    margin: 20px;
+}
+.name p {
+    margin: 0;
+    font-size: 17px;
+}
+.name span {
+    color: #8D8D8D;
+    font-size: 11px;
+}
+.es-stars i.fas.fa-star {
+    margin-right: 3px;
+    color: #FF6A6A;
+}
+i.far.fa-star {
+    color: #FF6A6A;
+}
+.es-exp p {
+    color: #313131;
+    font-size: 11px;
+    margin-bottom: 5px;
+}
+.es-exp {
+    margin-bottom: 20px;
+}
+.esp-style button.btn.btn-primary {
+    background: #ff6a6a;
+    border-color: #ff6a6a;
+}
+
+/*form*/
+
+.esp-form form {
+	padding: 60px;
+	box-shadow: 0px 3px 12px #00000029;
+}
+.esp-form .form-control {
+	border: none;
+	border-bottom: 1px solid #ced4da;
+}
+.form-button .btn.btn-primary {
+    background: #ff6a6a;
+    border-color: #ff6a6a;
+    padding: 6px 60px;
+    border-radius: 30px;
+}
+.form-button {
+    text-align: right;
+}
+
+
+
+.ant-layout, .ant-layout * {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.ant-card-head-title {
+    font-weight: bold;
+}
+
+.esp-serviceCard{
+    text-align: center;
+    padding: 20px;
+    box-shadow: 0 2px 11px 0 rgb(209 209 209);
+    border-radius: 20px;
+    margin: 20px;
+}
+
+
+.esp-salonAppointmentStatus{
+    font-weight: bold;
+    font-size: 14px;
+    width: 54%;
+    padding: 1px;
+}
+
+.statusPending{
+    color: #f39d00 !important;
+}
+
+.statusCancelled{
+    color: red !important;
+}
+
+.statusAccept{
+    color: #0cd80c !important;
+}

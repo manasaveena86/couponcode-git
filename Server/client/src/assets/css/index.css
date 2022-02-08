@@ -1,0 +1,57 @@
+.top-bar-css{
+    background: white !important;
+    border-bottom: 1px solid rgb(128,128,128) !important;
+}
+
+.ant-layout-content {
+    background-color: #e2e2e2;
+}
+/* .ant-table-thead > tr > th, .ant-table-tbody > tr > td, .ant-table tfoot > tr > th, .ant-table tfoot > tr > td {
+    padding: 2px 16px !important;
+}
+
+.ant-table-thead > tr > th {
+    padding: 16px 16px !important;
+} */
+
+.ant-menu-inline .ant-menu-item {
+    height: 25px !important;
+    line-height: 25px !important;
+}
+
+.gx-flex-row.gx-mb-4.gx-avatar-row {
+    float: right;
+}
+
+.esp-salonServiceImage {
+    height: 150px;
+    width: 150px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.esp-appointmentCard {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.esp-pendingBackground {
+    background-color: #FCCAC1;
+}
+
+.esp-confirmedBackground{
+    background-color: #F6F6F6;
+}
+
+.esp-confirmBookingsHeader{
+    margin: 10px;
+    padding: 10px;
+}
+.esp-confirmBookingsHeader p{
+    font-size : 14px
+}
+.esp-confirmBookingsHeader p span{
+    color: #2B922F;
+    font-weight: bold;
+}
